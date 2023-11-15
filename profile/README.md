@@ -2,7 +2,7 @@
 
 <h3><strong>Kroky Plus</strong> is a web app for the <strong>automation</strong> of weekly school snack ordering from <a href="https://www.kroky.si/2016/?mod=register&action=order">kroky.si</a></h3>
 
-![KrokyPlus](../images/thumbnail.png)
+![KrokyPlus](images/thumbnail.png)
 
 ## **💡 Getting the Idea**
 
